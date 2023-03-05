@@ -1,0 +1,50 @@
+Win+R
+1. sysdm.cpl 開啟系統內容視窗，可以設定環境變數
+2. taskschd.msc 開啟工作排成器，可以設定排程
+3. mstsc: 開取遠端桌面連線
+4. regedit: 開啟 Windows 系統登錄編輯程式（登錄檔）介面
+
+
+calc	小算盤
+certmgr.msc	證書管理實用程式
+charmap	字元對應表
+chkdsk.exe	chkdsk硬碟檢查
+cleanmgr	硬碟垃圾清理
+cliconfg	SQL Server用戶端網路公用程式
+compmgmt.msc	電腦管理
+dcomcnfg	元件服務
+devmgmt.msc	裝置管理員
+diskmgmt.msc	硬碟管理
+dvdplay	Windows Media Player
+dxdiag	DirectX診斷工具
+eudcedit	造字程式
+eventvwr.msc	事件檢視器
+explorer	檔案總管
+fsmgmt.msc	共用資料夾管理器
+gpedit.msc	本機群組原則編輯器
+iexpress	系統內建木馬元件服務工具
+logoff	登出
+lusrmgr.msc	本機使用者和群組
+mmc	主控台
+mobsync	同步中心
+msconfig.exe	系統設定
+mstsc	遠端桌面連線
+mspaint	小畫家
+magnify	放大鏡實用程式
+narrator	熒幕朗讀程式
+notepad	記事本
+nslookup	IP位址偵測器
+odbcad32	ODBC資料來源管理員
+osk	熒幕小鍵盤
+perfmon.msc	效能監視器
+regedit	登錄編輯程式（登錄檔）
+secpol.msc	本機安全性原則
+shrpubw	建立共用資料夾精靈
+sigverif	檔案簽章驗證
+services.msc	服務
+taskmgr	工作管理員
+utilman	協助工具管理器
+winver	檢查Windows版本
+wmimgmt.msc	Windows管理體系架構(WMI)
+write	WordPad寫字板
+wscript	Windows指令碼宿主設定
